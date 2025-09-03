@@ -36,9 +36,9 @@ Each record includes biochemical descriptors used as input for classification, s
 
 ---
 
-## ⚙️ Steps Performed  
+## Steps Performed  
 
-1. **Data Loading** – Imported the datasets (`ec1.csv`, `ec2.csv`).  
+1. **Data Loading** – Imported the datasets (`train.csv`, `test.csv`).  
 2. **Data Preprocessing** –  
    - Handled missing values.  
    - Scaled numerical features.  
